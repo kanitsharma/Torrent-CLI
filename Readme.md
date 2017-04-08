@@ -1,6 +1,7 @@
 # Torrent CLI
 
-A super fast torrent client that works on your command line powered by node.js and webtorrent
+A super fast torrent client that works on your command line,
+Powered by node.js and webtorrent
 
 ## Getting Started
 
