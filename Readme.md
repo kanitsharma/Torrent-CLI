@@ -15,7 +15,7 @@ cd Torrent-CLI
 ```
 npm install
 ```
-##Running
+## Running
 
 ```
 npm start

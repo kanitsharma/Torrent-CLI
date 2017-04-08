@@ -9,7 +9,7 @@ setTimeout(() => {
 
     client.add(magnetURI, { path: process.env.HOME + '/Downloads/TorrentCli' }, (torrent) => {
       torrent.on('done',() => {
-        console.log('\nCheck Your Downloads Folder')
+        console.log('\nCheck Your Downloads Folder for the file')
         client.destroy(() => {
           process.exit()
         })
