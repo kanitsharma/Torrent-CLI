@@ -1,0 +1,15 @@
+{
+  "name": "webtorrent.gg",
+  "version": "1.0.0",
+  "description": "Command line torrent client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kanit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "webtorrent": "^0.98.16"
+  }
+}
